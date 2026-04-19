@@ -44,7 +44,10 @@ CREATE TABLE noteEntity (
 ## Tampilan Aplikasi
 
 ### Video Demonstrasi
-https://github.com/user-attachments/assets/618c1964-b824-4c79-a672-45237bc552c0
+
+https://github.com/user-attachments/assets/0dc48aad-1c81-4b9a-82a1-a8fad83cf8af
+
+
 
 ### Screenshot Update (Minggu 7)
 
