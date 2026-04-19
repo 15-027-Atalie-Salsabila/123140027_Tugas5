@@ -1,3 +1,5 @@
+
+
 # Notes App Pro - Tugas Praktikum Minggu 7 📝
 
 Aplikasi **Notes App** versi upgrade yang dioptimasi untuk **Tugas Praktikum Minggu 7**. Project ini mendemonstrasikan implementasi database lokal menggunakan **SQLDelight**, manajemen preferensi dengan **DataStore**, serta fitur pencarian dan sinkronisasi data.
@@ -42,7 +44,7 @@ CREATE TABLE noteEntity (
 ## Tampilan Aplikasi
 
 ### Video Demonstrasi
-
+https://github.com/user-attachments/assets/618c1964-b824-4c79-a672-45237bc552c0
 
 ### Screenshot Update (Minggu 7)
 
